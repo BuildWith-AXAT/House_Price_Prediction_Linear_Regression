@@ -95,11 +95,11 @@ The objective is to understand how different house features influence market pri
 ```text
 House_Price_Prediction_Linear_Regression/
 │
-├── banner.png
 ├── Akshat_Pandey.ipynb
 ├── kc_house_data.csv
 ├── README.md
 └── images/
+    ├── banner.png
     ├── dataset.png
     ├── heatmap.png
     ├── regression.png
