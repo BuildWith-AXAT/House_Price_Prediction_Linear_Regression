@@ -141,41 +141,26 @@ House Price Prediction
 
 ## 📌 Dataset Preview
 
-> *(Add screenshot here)*
-
-```markdown
 <img src="images/dataset.png" width="100%">
-```
 
 ---
 
 ## 📈 Correlation Heatmap
 
-> *(Add screenshot here)*
-
-```markdown
 <img src="images/heatmap.png" width="100%">
-```
 
 ---
 
 ## 📉 Regression Analysis
 
-> *(Add screenshot here)*
 
-```markdown
 <img src="images/regression.png" width="100%">
-```
 
 ---
 
 ## 🏡 Prediction Result
 
-> *(Add screenshot here)*
-
-```markdown
 <img src="images/prediction.png" width="100%">
-```
 
 ---
 
