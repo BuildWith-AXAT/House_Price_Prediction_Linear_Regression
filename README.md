@@ -208,7 +208,7 @@ This project helped me understand:
 
 💻 Machine Learning Enthusiast
 
-🐙 GitHub: https://github.com/BuildWith_AXAT
+🐙 GitHub: https://github.com/BuildWith-AXAT
 
 ---
 
